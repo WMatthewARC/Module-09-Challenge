@@ -1,2 +1,1 @@
-# Module-09-Challenge
- sql-challenge
+# Module-09-Challenge | sql-challenge
