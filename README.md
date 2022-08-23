@@ -1,4 +1,16 @@
 # Module-09-Challenge | sql-challenge
+
+## Summary
+I was asked to design a SQL DB from provided CSV files then run some statments to anwer given questions. 
+
+
+## Data Modeling
+
+Developed an ERD to assist in this task:
+
+![ERD](DBlayout.JPG)
+
+
 CREATE TABLE titles(
     title_id VARCHAR PRIMARY KEY,
     title VARCHAR
