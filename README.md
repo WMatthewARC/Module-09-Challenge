@@ -8,7 +8,7 @@ I was asked to design a SQL DB from provided CSV files then run some statments t
 
 Developed an ERD to assist in this task:
 
-![ERD](DBlayout.JPG)
+![ERD](DB_layout.JPG)
 
 
 CREATE TABLE titles(
