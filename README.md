@@ -115,12 +115,12 @@ Now maybe we can get to the questions at hand! In which case I needed this entir
 
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
-	SELECT employees.emp_no, employees.last_name, employees.frist_name, employees.sex, salaries.salary
-        From employees
-        LEFT JOIN salaries
-        ON employees.emp_no = salaries.emp_no
-        ORDER BY employees.emp_no;`
-	
+		SELECT employees.emp_no, employees.last_name, employees.frist_name, employees.sex, salaries.salary
+		From employees
+		LEFT JOIN salaries
+		ON employees.emp_no = salaries.emp_no
+		ORDER BY employees.emp_no;
+
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
         SELECT Frist_name, last_name, hire_date
