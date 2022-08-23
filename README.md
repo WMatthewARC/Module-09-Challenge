@@ -189,6 +189,7 @@ There you go sir, all questions answered.
 
 …? What’s that!?  you want my take aways? 
 	Well…
--	You got way too many people with the same last name and way too many named Hercules.
--	Your top heavy in salaries  
--	You really should organize your department needs based on demand. Older hires have filled your employees count. 
+-	You got way too many people with the same last name to not have some red flags and way too many named Hercules.
+-	Also paying people excetly 4,000 is not helping. 
+-	Your top heavy in salaries. 
+-	Also, you really should fill departments based on needs and demand. Older hires have filled your employee count. I would guess there are some slack in over lay in processes you could stand to tighten the belt on, reinvest that money saved in your bottom 20% to 45% rate employees. Grow a dedicated base. 
